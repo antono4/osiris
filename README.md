@@ -1,1 +1,34 @@
-Last updated: 2026-10-04 04:32:42 WIB
+# osiris
+
+
+
+## 📋 Overview
+
+This repository contains **321 files** and is built with the following technologies:
+
+Node.js, JavaScript, Docker
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 🐳 Docker support
+- 🔧 Environment config included
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript, Docker
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-04 04:49:22 WIB*
